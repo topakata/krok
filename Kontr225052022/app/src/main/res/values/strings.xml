@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kontr2-25.05.2022</string>
+    <string name="regNumber">RegNumber</string>
+    <string name="owner">owner</string>
+    <string name="condition">condition</string>
+    <string name="multitext">multitext</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="price_hint">Enter price</string>
+    <string name="qty_hint">Enter quantity</string>
+    <string name="imgBtn_content_description">Image button</string>
+
+</resources>
